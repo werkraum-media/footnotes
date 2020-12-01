@@ -1,0 +1,19 @@
+{
+  "name": "footnotes",
+  "version": "1.0.0",
+  "description": "Shows footnotes in a layer sticked to the bottom of the page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/werkraum-media/footnotes.git"
+  },
+  "author": "Michael Hitzler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/werkraum-media/footnotes/issues"
+  },
+  "homepage": "https://github.com/werkraum-media/footnotes#readme"
+}

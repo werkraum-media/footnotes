@@ -1,0 +1,23 @@
+// footnotes styles
+
+.footnote-area {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #efefef;
+    transform: translateY(100%);
+    transition: transform 400ms ease-in-out;
+}
+.footnote-container {
+    position: relative;
+    padding: 40px 40px 40px 12px;
+}
+.footnote-area.show {
+    transform: translateX(0);
+}
+.footnote-close {
+    position: absolute;
+    top: 20px;
+    right: 10px;
+}
