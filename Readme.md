@@ -6,7 +6,7 @@ Displays footnotes in a layer sticked to the footer of a page.
 ## Install
 
 ```
-$ npm install wrkrm-footnotes
+$ npm install werkraum-media/footnotes --save
 ```
 
 
