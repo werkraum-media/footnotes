@@ -9,6 +9,13 @@ Displays footnotes in a layer sticked to the footer of a page.
 $ npm install werkraum-media/footnotes --save
 ```
 
+```json
+  "dependencies": {
+    ...  
+    "footnotes": "github:werkraum-media/footnotes"
+  }
+```
+
 
 ## Usage
 
