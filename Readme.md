@@ -11,7 +11,6 @@ $ npm install werkraum-media/footnotes --save
 
 ```json
   "dependencies": {
-    ...  
     "footnotes": "github:werkraum-media/footnotes"
   }
 ```
