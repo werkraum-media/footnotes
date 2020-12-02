@@ -7,7 +7,7 @@
 
 const Footnotes = {
     init: function() {
-        const footnoteItems = document.querySelectorAll('a[data-toggle="tooltip"]');
+        const footnoteItems = document.querySelectorAll('a[data-toggle="footnote"]');
         if ( footnoteItems.length === 0 ) {
             return;
         }
